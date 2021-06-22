@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/duvarkagidimarketi",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "MONSTER",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "google/apiclient": "^2.7",
+    "facebook/graph-sdk": "^5.7",
+    "cosenary/instagram": "^2.3"
+  }
+}
